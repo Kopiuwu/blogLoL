@@ -1,1 +1,2 @@
-Blog de lol responsivo. :3
+Blog de lol responsivo.
+Práctica con botones, imágenes y menú "flotante".
